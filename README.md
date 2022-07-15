@@ -62,10 +62,15 @@ In this analysis, due to suspected academic integrity issues amongst 9th graders
      ![school_type_summary_with_and_without_THS](analysis/school_type_summary_with_and_without_THS.png)
 
 ## Summary
-Based on this analysis, when omitting the 9th grade data from Thomas High School, the following differences were observed: 
-- 
-- 
-- 
-- 
+Based on this analysis, when omitting the 9th grade data from Thomas High School due to potential academic dishonesty risks, the following differences were observed: 
+- District Analysis:
+     - The average math score decreased by 0.1.
+     - The percent of students passing for math, reading, and overall test scores decreased by 0.2%, 0.3%, and 0.1%, respectively.
+- Thomas High School Analysis:
+     - The average math score decreased by 0.07, but the average reading score increased by 0.05.
+     - The percentage of students passing decreased in all categories by the following amounts: 
+          - Math % Passing: 0.09%
+          - Reading % Passing: 0.29%
+          - Overall % Passing: 0.32%
 
 However, even with the omission of potentially faulty data, the scores by school spending, school size, and school type did not change. This could be due to the lack of significant figures in the data. Reformatting the data to show more decimal places may show minor differences with and without the THS 9th grade class, just as the other analysis showed. 
